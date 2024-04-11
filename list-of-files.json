@@ -1,0 +1,710 @@
+{
+    "header": {
+        "allowedMaxFileCount": 10000,
+        "returnedFileCount": 100.0,
+        "totalFileCountInRepo": 104,
+        "requestedFileCount": 100
+    },
+    "files": [
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_FactoryCalendar.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_FactoryCalendar.csv",
+            "size": 25130.0,
+            "index": 0.0,
+            "fileTimestamp": "2024-04-02T23:33:01.737Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_KPIConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_KPIConfiguration.csv",
+            "size": 221087.0,
+            "index": 1.0,
+            "fileTimestamp": "2024-04-02T23:32:31.699Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_KPIStore.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_KPIStore.csv",
+            "size": 1.50971579E8,
+            "index": 2.0,
+            "fileTimestamp": "2024-04-02T23:32:01.616Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_KPITargetConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_KPITargetConfiguration.csv",
+            "size": 855.0,
+            "index": 3.0,
+            "fileTimestamp": "2024-04-02T23:32:46.721Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_MachineData.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_MachineData.csv",
+            "size": 97008.0,
+            "index": 4.0,
+            "fileTimestamp": "2024-04-02T23:33:31.972Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_ManufacturingEvent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_ManufacturingEvent.csv",
+            "size": 327956.0,
+            "index": 5.0,
+            "fileTimestamp": "2024-04-02T23:31:26.241Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_OperatorAssignment.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_OperatorAssignment.csv",
+            "size": 41505.0,
+            "index": 6.0,
+            "fileTimestamp": "2024-04-02T23:30:10.701Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_ProductionOrder.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_ProductionOrder.csv",
+            "size": 433393.0,
+            "index": 7.0,
+            "fileTimestamp": "2024-04-02T23:30:25.907Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_ProductionOrderComponent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_ProductionOrderComponent.csv",
+            "size": 1836252.0,
+            "index": 8.0,
+            "fileTimestamp": "2024-04-02T23:30:41.095Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_ProductionOrderOperation.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_ProductionOrderOperation.csv",
+            "size": 236674.0,
+            "index": 9.0,
+            "fileTimestamp": "2024-04-02T23:30:56.161Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_ProductionYield.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_ProductionYield.csv",
+            "size": 190.0,
+            "index": 10.0,
+            "fileTimestamp": "2024-04-02T23:31:11.177Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_ReasonCode.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_ReasonCode.csv",
+            "size": 9533.0,
+            "index": 11.0,
+            "fileTimestamp": "2024-04-02T23:32:16.636Z"
+        },
+        {
+            "fileName": "2024-04-02T23-30-00.273Z_ShiftPattern.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-02T23-30-00.273Z_ShiftPattern.csv",
+            "size": 1436.0,
+            "index": 12.0,
+            "fileTimestamp": "2024-04-02T23:33:16.768Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_FactoryCalendar.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_FactoryCalendar.csv",
+            "size": 25130.0,
+            "index": 13.0,
+            "fileTimestamp": "2024-04-03T23:33:02.697Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_KPIConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_KPIConfiguration.csv",
+            "size": 221087.0,
+            "index": 14.0,
+            "fileTimestamp": "2024-04-03T23:32:32.631Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_KPIStore.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_KPIStore.csv",
+            "size": 1.50971579E8,
+            "index": 15.0,
+            "fileTimestamp": "2024-04-03T23:32:02.565Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_KPITargetConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_KPITargetConfiguration.csv",
+            "size": 855.0,
+            "index": 16.0,
+            "fileTimestamp": "2024-04-03T23:32:47.662Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_MachineData.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_MachineData.csv",
+            "size": 97008.0,
+            "index": 17.0,
+            "fileTimestamp": "2024-04-03T23:33:32.950Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_ManufacturingEvent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_ManufacturingEvent.csv",
+            "size": 327956.0,
+            "index": 18.0,
+            "fileTimestamp": "2024-04-03T23:31:25.846Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_OperatorAssignment.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_OperatorAssignment.csv",
+            "size": 41505.0,
+            "index": 19.0,
+            "fileTimestamp": "2024-04-03T23:30:10.401Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_ProductionOrder.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_ProductionOrder.csv",
+            "size": 436272.0,
+            "index": 20.0,
+            "fileTimestamp": "2024-04-03T23:30:25.464Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_ProductionOrderComponent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_ProductionOrderComponent.csv",
+            "size": 1852434.0,
+            "index": 21.0,
+            "fileTimestamp": "2024-04-03T23:30:40.658Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_ProductionOrderOperation.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_ProductionOrderOperation.csv",
+            "size": 238247.0,
+            "index": 22.0,
+            "fileTimestamp": "2024-04-03T23:30:55.752Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_ProductionYield.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_ProductionYield.csv",
+            "size": 190.0,
+            "index": 23.0,
+            "fileTimestamp": "2024-04-03T23:31:10.768Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_ReasonCode.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_ReasonCode.csv",
+            "size": 9533.0,
+            "index": 24.0,
+            "fileTimestamp": "2024-04-03T23:32:17.584Z"
+        },
+        {
+            "fileName": "2024-04-03T23-30-00.166Z_ShiftPattern.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-03T23-30-00.166Z_ShiftPattern.csv",
+            "size": 1436.0,
+            "index": 25.0,
+            "fileTimestamp": "2024-04-03T23:33:17.744Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_FactoryCalendar.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_FactoryCalendar.csv",
+            "size": 25130.0,
+            "index": 26.0,
+            "fileTimestamp": "2024-04-04T23:33:02.391Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_KPIConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_KPIConfiguration.csv",
+            "size": 221087.0,
+            "index": 27.0,
+            "fileTimestamp": "2024-04-04T23:32:32.257Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_KPIStore.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_KPIStore.csv",
+            "size": 1.50971579E8,
+            "index": 28.0,
+            "fileTimestamp": "2024-04-04T23:32:02.096Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_KPITargetConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_KPITargetConfiguration.csv",
+            "size": 855.0,
+            "index": 29.0,
+            "fileTimestamp": "2024-04-04T23:32:47.326Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_MachineData.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_MachineData.csv",
+            "size": 97008.0,
+            "index": 30.0,
+            "fileTimestamp": "2024-04-04T23:33:32.644Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_ManufacturingEvent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_ManufacturingEvent.csv",
+            "size": 327956.0,
+            "index": 31.0,
+            "fileTimestamp": "2024-04-04T23:31:26.292Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_OperatorAssignment.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_OperatorAssignment.csv",
+            "size": 41505.0,
+            "index": 32.0,
+            "fileTimestamp": "2024-04-04T23:30:10.591Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_ProductionOrder.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_ProductionOrder.csv",
+            "size": 437950.0,
+            "index": 33.0,
+            "fileTimestamp": "2024-04-04T23:30:25.716Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_ProductionOrderComponent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_ProductionOrderComponent.csv",
+            "size": 1867569.0,
+            "index": 34.0,
+            "fileTimestamp": "2024-04-04T23:30:41.001Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_ProductionOrderOperation.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_ProductionOrderOperation.csv",
+            "size": 239877.0,
+            "index": 35.0,
+            "fileTimestamp": "2024-04-04T23:30:56.098Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_ProductionYield.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_ProductionYield.csv",
+            "size": 190.0,
+            "index": 36.0,
+            "fileTimestamp": "2024-04-04T23:31:11.180Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_ReasonCode.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_ReasonCode.csv",
+            "size": 9533.0,
+            "index": 37.0,
+            "fileTimestamp": "2024-04-04T23:32:17.176Z"
+        },
+        {
+            "fileName": "2024-04-04T23-30-00.216Z_ShiftPattern.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-04T23-30-00.216Z_ShiftPattern.csv",
+            "size": 1436.0,
+            "index": 38.0,
+            "fileTimestamp": "2024-04-04T23:33:17.440Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_FactoryCalendar.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_FactoryCalendar.csv",
+            "size": 25130.0,
+            "index": 39.0,
+            "fileTimestamp": "2024-04-05T23:33:11.639Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_KPIConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_KPIConfiguration.csv",
+            "size": 221087.0,
+            "index": 40.0,
+            "fileTimestamp": "2024-04-05T23:32:41.582Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_KPIStore.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_KPIStore.csv",
+            "size": 1.50971579E8,
+            "index": 41.0,
+            "fileTimestamp": "2024-04-05T23:32:11.509Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_KPITargetConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_KPITargetConfiguration.csv",
+            "size": 855.0,
+            "index": 42.0,
+            "fileTimestamp": "2024-04-05T23:32:56.616Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_MachineData.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_MachineData.csv",
+            "size": 97008.0,
+            "index": 43.0,
+            "fileTimestamp": "2024-04-05T23:33:41.856Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_ManufacturingEvent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_ManufacturingEvent.csv",
+            "size": 327956.0,
+            "index": 44.0,
+            "fileTimestamp": "2024-04-05T23:31:25.854Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_OperatorAssignment.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_OperatorAssignment.csv",
+            "size": 41505.0,
+            "index": 45.0,
+            "fileTimestamp": "2024-04-05T23:30:10.410Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_ProductionOrder.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_ProductionOrder.csv",
+            "size": 455029.0,
+            "index": 46.0,
+            "fileTimestamp": "2024-04-05T23:30:25.475Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_ProductionOrderComponent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_ProductionOrderComponent.csv",
+            "size": 1918760.0,
+            "index": 47.0,
+            "fileTimestamp": "2024-04-05T23:30:40.693Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_ProductionOrderOperation.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_ProductionOrderOperation.csv",
+            "size": 246239.0,
+            "index": 48.0,
+            "fileTimestamp": "2024-04-05T23:30:55.742Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_ProductionYield.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_ProductionYield.csv",
+            "size": 190.0,
+            "index": 49.0,
+            "fileTimestamp": "2024-04-05T23:31:10.774Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_ReasonCode.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_ReasonCode.csv",
+            "size": 9533.0,
+            "index": 50.0,
+            "fileTimestamp": "2024-04-05T23:32:26.545Z"
+        },
+        {
+            "fileName": "2024-04-05T23-30-00.170Z_ShiftPattern.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-05T23-30-00.170Z_ShiftPattern.csv",
+            "size": 1436.0,
+            "index": 51.0,
+            "fileTimestamp": "2024-04-05T23:33:26.672Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_FactoryCalendar.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_FactoryCalendar.csv",
+            "size": 25130.0,
+            "index": 52.0,
+            "fileTimestamp": "2024-04-06T23:33:06.793Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_KPIConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_KPIConfiguration.csv",
+            "size": 221087.0,
+            "index": 53.0,
+            "fileTimestamp": "2024-04-06T23:32:36.731Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_KPIStore.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_KPIStore.csv",
+            "size": 1.50971579E8,
+            "index": 54.0,
+            "fileTimestamp": "2024-04-06T23:32:06.621Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_KPITargetConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_KPITargetConfiguration.csv",
+            "size": 855.0,
+            "index": 55.0,
+            "fileTimestamp": "2024-04-06T23:32:51.762Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_MachineData.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_MachineData.csv",
+            "size": 97008.0,
+            "index": 56.0,
+            "fileTimestamp": "2024-04-06T23:33:37.015Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_ManufacturingEvent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_ManufacturingEvent.csv",
+            "size": 327956.0,
+            "index": 57.0,
+            "fileTimestamp": "2024-04-06T23:31:25.909Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_OperatorAssignment.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_OperatorAssignment.csv",
+            "size": 41505.0,
+            "index": 58.0,
+            "fileTimestamp": "2024-04-06T23:30:10.441Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_ProductionOrder.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_ProductionOrder.csv",
+            "size": 454395.0,
+            "index": 59.0,
+            "fileTimestamp": "2024-04-06T23:30:25.506Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_ProductionOrderComponent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_ProductionOrderComponent.csv",
+            "size": 1922922.0,
+            "index": 60.0,
+            "fileTimestamp": "2024-04-06T23:30:40.728Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_ProductionOrderOperation.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_ProductionOrderOperation.csv",
+            "size": 246926.0,
+            "index": 61.0,
+            "fileTimestamp": "2024-04-06T23:30:55.792Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_ProductionYield.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_ProductionYield.csv",
+            "size": 190.0,
+            "index": 62.0,
+            "fileTimestamp": "2024-04-06T23:31:10.823Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_ReasonCode.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_ReasonCode.csv",
+            "size": 9533.0,
+            "index": 63.0,
+            "fileTimestamp": "2024-04-06T23:32:21.684Z"
+        },
+        {
+            "fileName": "2024-04-06T23-30-00.173Z_ShiftPattern.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-06T23-30-00.173Z_ShiftPattern.csv",
+            "size": 1436.0,
+            "index": 64.0,
+            "fileTimestamp": "2024-04-06T23:33:21.840Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_FactoryCalendar.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_FactoryCalendar.csv",
+            "size": 25130.0,
+            "index": 65.0,
+            "fileTimestamp": "2024-04-07T23:33:07.282Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_KPIConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_KPIConfiguration.csv",
+            "size": 221087.0,
+            "index": 66.0,
+            "fileTimestamp": "2024-04-07T23:32:37.224Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_KPIStore.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_KPIStore.csv",
+            "size": 1.50971579E8,
+            "index": 67.0,
+            "fileTimestamp": "2024-04-07T23:32:07.143Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_KPITargetConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_KPITargetConfiguration.csv",
+            "size": 855.0,
+            "index": 68.0,
+            "fileTimestamp": "2024-04-07T23:32:52.262Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_MachineData.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_MachineData.csv",
+            "size": 97008.0,
+            "index": 69.0,
+            "fileTimestamp": "2024-04-07T23:33:37.535Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_ManufacturingEvent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_ManufacturingEvent.csv",
+            "size": 327791.0,
+            "index": 70.0,
+            "fileTimestamp": "2024-04-07T23:31:25.890Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_OperatorAssignment.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_OperatorAssignment.csv",
+            "size": 41505.0,
+            "index": 71.0,
+            "fileTimestamp": "2024-04-07T23:30:10.435Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_ProductionOrder.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_ProductionOrder.csv",
+            "size": 451866.0,
+            "index": 72.0,
+            "fileTimestamp": "2024-04-07T23:30:25.500Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_ProductionOrderComponent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_ProductionOrderComponent.csv",
+            "size": 1922922.0,
+            "index": 73.0,
+            "fileTimestamp": "2024-04-07T23:30:40.723Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_ProductionOrderOperation.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_ProductionOrderOperation.csv",
+            "size": 246926.0,
+            "index": 74.0,
+            "fileTimestamp": "2024-04-07T23:30:55.789Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_ProductionYield.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_ProductionYield.csv",
+            "size": 190.0,
+            "index": 75.0,
+            "fileTimestamp": "2024-04-07T23:31:10.823Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_ReasonCode.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_ReasonCode.csv",
+            "size": 9533.0,
+            "index": 76.0,
+            "fileTimestamp": "2024-04-07T23:32:22.177Z"
+        },
+        {
+            "fileName": "2024-04-07T23-30-00.165Z_ShiftPattern.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-07T23-30-00.165Z_ShiftPattern.csv",
+            "size": 1436.0,
+            "index": 77.0,
+            "fileTimestamp": "2024-04-07T23:33:22.317Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_FactoryCalendar.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_FactoryCalendar.csv",
+            "size": 25130.0,
+            "index": 78.0,
+            "fileTimestamp": "2024-04-08T23:33:00.766Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_KPIConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_KPIConfiguration.csv",
+            "size": 221087.0,
+            "index": 79.0,
+            "fileTimestamp": "2024-04-08T23:32:30.688Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_KPIStore.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_KPIStore.csv",
+            "size": 1.50971579E8,
+            "index": 80.0,
+            "fileTimestamp": "2024-04-08T23:32:00.606Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_KPITargetConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_KPITargetConfiguration.csv",
+            "size": 855.0,
+            "index": 81.0,
+            "fileTimestamp": "2024-04-08T23:32:45.719Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_MachineData.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_MachineData.csv",
+            "size": 97008.0,
+            "index": 82.0,
+            "fileTimestamp": "2024-04-08T23:33:30.976Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_ManufacturingEvent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_ManufacturingEvent.csv",
+            "size": 327791.0,
+            "index": 83.0,
+            "fileTimestamp": "2024-04-08T23:31:25.778Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_OperatorAssignment.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_OperatorAssignment.csv",
+            "size": 41505.0,
+            "index": 84.0,
+            "fileTimestamp": "2024-04-08T23:30:10.331Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_ProductionOrder.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_ProductionOrder.csv",
+            "size": 454665.0,
+            "index": 85.0,
+            "fileTimestamp": "2024-04-08T23:30:25.398Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_ProductionOrderComponent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_ProductionOrderComponent.csv",
+            "size": 1939227.0,
+            "index": 86.0,
+            "fileTimestamp": "2024-04-08T23:30:40.621Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_ProductionOrderOperation.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_ProductionOrderOperation.csv",
+            "size": 250004.0,
+            "index": 87.0,
+            "fileTimestamp": "2024-04-08T23:30:55.684Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_ProductionYield.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_ProductionYield.csv",
+            "size": 190.0,
+            "index": 88.0,
+            "fileTimestamp": "2024-04-08T23:31:10.716Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_ReasonCode.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_ReasonCode.csv",
+            "size": 9533.0,
+            "index": 89.0,
+            "fileTimestamp": "2024-04-08T23:32:15.653Z"
+        },
+        {
+            "fileName": "2024-04-08T23-30-00.128Z_ShiftPattern.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-08T23-30-00.128Z_ShiftPattern.csv",
+            "size": 1436.0,
+            "index": 90.0,
+            "fileTimestamp": "2024-04-08T23:33:15.803Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_FactoryCalendar.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_FactoryCalendar.csv",
+            "size": 25130.0,
+            "index": 91.0,
+            "fileTimestamp": "2024-04-09T23:33:12.458Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_KPIConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_KPIConfiguration.csv",
+            "size": 221087.0,
+            "index": 92.0,
+            "fileTimestamp": "2024-04-09T23:32:42.410Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_KPIStore.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_KPIStore.csv",
+            "size": 1.50971589E8,
+            "index": 93.0,
+            "fileTimestamp": "2024-04-09T23:32:12.316Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_KPITargetConfiguration.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_KPITargetConfiguration.csv",
+            "size": 855.0,
+            "index": 94.0,
+            "fileTimestamp": "2024-04-09T23:32:57.442Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_MachineData.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_MachineData.csv",
+            "size": 97008.0,
+            "index": 95.0,
+            "fileTimestamp": "2024-04-09T23:33:42.678Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_ManufacturingEvent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_ManufacturingEvent.csv",
+            "size": 327321.0,
+            "index": 96.0,
+            "fileTimestamp": "2024-04-09T23:31:25.852Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_OperatorAssignment.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_OperatorAssignment.csv",
+            "size": 41505.0,
+            "index": 97.0,
+            "fileTimestamp": "2024-04-09T23:30:10.419Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_ProductionOrder.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_ProductionOrder.csv",
+            "size": 461201.0,
+            "index": 98.0,
+            "fileTimestamp": "2024-04-09T23:30:25.487Z"
+        },
+        {
+            "fileName": "2024-04-09T23-30-00.183Z_ProductionOrderComponent.csv",
+            "fileLink": "/Thingworx/FileRepositories/MDCS.Export.FileRepository/export/ready/2024-04-09T23-30-00.183Z_ProductionOrderComponent.csv",
+            "size": 1965694.0,
+            "index": 99.0,
+            "fileTimestamp": "2024-04-09T23:30:40.691Z"
+        }
+    ]
+}
